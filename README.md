@@ -72,11 +72,5 @@ Welcome to the Data Science Assignments repository! This repository contains a s
 2. Navigate to each assignment folder to access the code and related files.
 3. Follow the instructions provided in each assignment's README file to complete the tasks.
 
-## Contributors
-- [Your Name](link to your profile)
-- [Contributor 2](link to their profile)
-- [Contributor 3](link to their profile)
-
-Feel free to contribute to this repository by adding new assignments, improving existing ones, or providing feedback!
 
 Happy learning!
